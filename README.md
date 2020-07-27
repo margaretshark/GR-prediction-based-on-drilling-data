@@ -1,2 +1,2 @@
-# GR-prediction-based-on-drilling-data
+# GR-prediction
 GR well logging prediction based on drilling data
